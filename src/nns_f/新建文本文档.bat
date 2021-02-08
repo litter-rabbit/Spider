@@ -1,0 +1,1 @@
+start cmd /k "conda activate spider && python login.py"
